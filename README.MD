@@ -1,4 +1,3 @@
-This is my personal portfolio.
- I know the below skills but I'll learn new soon an update...
-        1) Javascript
-        2) Java
+# personal portfolio.
+Welcome to my Portfolio 
+ 
